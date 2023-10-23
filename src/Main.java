@@ -21,7 +21,7 @@ public class Main {
 
         do {
 
-            System.out.print("Arvaa nimi: ");
+            System.out.print("Arvaa kuka olen: ");
 
             guess = scanner.nextLine();
 
@@ -41,7 +41,7 @@ public class Main {
 
             } else {
 
-                System.out.println("Väärin arvattu. Yritä uudestaan.");
+                System.out.println("Väärin arvattu. Yritä vielä uudestaan.");
 
                 guesses++;
 
