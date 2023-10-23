@@ -21,7 +21,7 @@ public class Main {
 
         do {
 
-            System.out.print("Arvaa kuka olen: ");
+            System.out.print("Arvaa nimi: ");
 
             guess = scanner.nextLine();
 
@@ -51,7 +51,7 @@ public class Main {
 
        
 
-        System.out.println("Hienoa ratkaisit tehtävä, arvasit " + guesses + " kertaa.");
+        System.out.println("Loistavaa ratkaisit tehtävä, arvasit " + guesses + " kertaa.");
 
     }
 
