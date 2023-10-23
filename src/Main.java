@@ -9,7 +9,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        String answer = "Emma";
+        String answer = "Tiina";
 
         int guesses = 0;
 
